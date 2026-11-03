@@ -20,6 +20,12 @@ artifacts/
 *.edb/
 *.zw1
 *.sqlite3
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.sldprt
+*.sldasm
+*.slddrw
 *.mdb
 *.pdf
 *.docx

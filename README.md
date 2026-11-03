@@ -49,3 +49,10 @@ EPLAN sources were separated from
 on 2026-11-02. Package and command names are retained for compatibility.
 See [MIT License](LICENSE), [third-party notices](THIRD_PARTY_NOTICES.md) and
 [source provenance](mcp/eplan/SOURCE_PROVENANCE.json).
+
+## SolidWorks（2026-11-03）
+
+- [核心 MCP 与安装](mcp/solidworks/README.md)
+- [工程图识图模块](mcp/solidworks-drawing/README.md)
+- [建模 Skill](codex-skills/solidworks-cad-agent/SKILL.md)与[识图 Skill](codex-skills/solidworks-drawing-modeling/SKILL.md)
+- [优化与故障记录](docs/solidworks-hardening-2026-11-03.zh-CN.md)

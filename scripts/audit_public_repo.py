@@ -32,6 +32,9 @@ TEXT_SUFFIXES = {
     ".yml",
 }
 BLOCKED_SUFFIXES = {
+    ".sldprt",
+    ".sldasm",
+    ".slddrw",
     ".dll",
     ".pdb",
     ".elk",

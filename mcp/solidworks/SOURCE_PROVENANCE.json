@@ -1,0 +1,42 @@
+{
+  "upstream": "https://github.com/Cai-aa/CAD-Agent-Hub",
+  "commit": "339840b5f775e81d0b18519806ccb5e59885e2a6",
+  "license": "MIT, Copyright (c) 2026 Cai-aa",
+  "imported": "2026-11-03",
+  "local_changes": [
+    "document identity and durable operation journal",
+    "save/rebuild/geometry integrity checks",
+    "custom planes and model-space sketch transforms",
+    "two-section cut loft",
+    "Chinese display names and graph reference mapping",
+    "offline intersection review",
+    "Windows TOML byte writer"
+  ],
+  "original_source_hashes": {
+    "src/solidworks_mcp/com_runtime.py": "efb863bc95b8452901e64c6c4b49bd2492773e891ca676af4bd81ae832976cba",
+    "src/solidworks_mcp/config.py": "d3a35baf324cf4eac95f37ad84cb968b1bb60ee67a4395ffef465acdf1bff071",
+    "src/solidworks_mcp/contracts.py": "3405042be2b554a03d941405dc0b5ee39133e16293afedba9d6d5abc5c3e9645",
+    "src/solidworks_mcp/executor.py": "d8eeb65719c4dbfe218c0339c9f72cd33db397d1c9395685dbd51e95292fb3f0",
+    "src/solidworks_mcp/feature_graph.py": "ad5dd10c821f2dbce4760412b6d60a1992e6af304022e19cf8e0dc9d78e246e2",
+    "src/solidworks_mcp/file_safety.py": "22730446abfc6a7236f66bf3abe6ca169223523f78da21d5aa13a50ef4ab26b9",
+    "src/solidworks_mcp/gearbox.py": "285297a200ab2ff7d993847d6cf1ee871fcc2dd5d36fcd846949fe5d37caf3f9",
+    "src/solidworks_mcp/inspection.py": "6097bb1e0254568e868e44b591272c4fe9ed7b10327e2f58f71cd2bec2165e5b",
+    "src/solidworks_mcp/interactive.py": "391a08555bb2885c1f2295bd44b1ac2b195512108d7b2c04d625a1b0952f5a17",
+    "src/solidworks_mcp/involute_gear.py": "1b628cf2dd10966ecafe0fcf492397d074c95239c1465db8ea33cea615d648a2",
+    "src/solidworks_mcp/metadata.py": "6c744803c4ecc8cae4d5d0f007e12677c069f4237b681008d364a1cebf5248b1",
+    "src/solidworks_mcp/modeling_rules.py": "04cd67c04abba968ce72224790d046a1c9f221656276d0ec580f7ba825abb593",
+    "src/solidworks_mcp/native_features.py": "87af4d991b62008d99fb1101f4249e7df02519d2fe93d32a7614076465ec9d91",
+    "src/solidworks_mcp/output_shaft.py": "1a60e7770e52a971db6da4690413d322677c42df0a5906c917e88eb3e260e5ab",
+    "src/solidworks_mcp/part_generators.py": "2aa6202e9f177493d7250f3d76d1f9a0a54e098101d89b72305717a25bed36a7",
+    "src/solidworks_mcp/primitives.py": "79ee191374766e39c6e6d43195bb9e5cae0a553beb3d7530e5b67d389a1af4ba",
+    "src/solidworks_mcp/safety.py": "99092b7574a9fc1235c61578674f3675c4ca9bfe4384f12b32e9bd8e937b07b9",
+    "src/solidworks_mcp/server.py": "c4b3812b207ba4e856cd52fb4e27199dc7a01890c73e4c1770204e7015f41643",
+    "src/solidworks_mcp/verification.py": "9d12f8053e51685efd2bcf0f4c279fc7e3f69971ba8eed3282776ab404b30eaf",
+    "src/solidworks_mcp/__init__.py": "6af8557966e2ffc537adc69a9d1ac4be54bd220d962667d56e78040b675aebe9"
+  },
+  "public_packaging_notes": [
+    "Generic synthetic test paths and vendor template examples use portable path spellings.",
+    "Host-specific deployment scripts, personal configuration and engineering evidence are excluded.",
+    "The optional generic real-stdio acceptance runner requires an explicitly selected output directory and a live SolidWorks installation."
+  ]
+}

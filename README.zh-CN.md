@@ -37,3 +37,10 @@ python scripts/audit_public_repo.py
 独立维护，保留 Python 包名与工具名，便于已有配置迁移。
 开源范围见 [MIT 许可](LICENSE)、[第三方说明](THIRD_PARTY_NOTICES.md)和
 [源码来源记录](mcp/eplan/SOURCE_PROVENANCE.json)。
+
+## SolidWorks（2026-11-03）
+
+- [核心 MCP 与安装](mcp/solidworks/README.md)
+- [工程图识图模块](mcp/solidworks-drawing/README.md)
+- [建模 Skill](codex-skills/solidworks-cad-agent/SKILL.md)与[识图 Skill](codex-skills/solidworks-drawing-modeling/SKILL.md)
+- [优化与故障记录](docs/solidworks-hardening-2026-11-03.zh-CN.md)
